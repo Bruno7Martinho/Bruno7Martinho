@@ -25,7 +25,7 @@
 
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno7Martinhoo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno7Martinho&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno7Martinho&layout=compact&theme=radical)
 ---
 ## 🌍 Onde me encontrar?
