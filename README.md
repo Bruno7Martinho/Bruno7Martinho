@@ -1,4 +1,4 @@
-# 👋 Olá, mundo! Eu sou [Bruno Model Martinho] 🚀
+# 👋 Olá, mundo! Eu sou Bruno Model Martinho 🚀
 
 🎯 **Desenvolvedor em formação**
 ---
