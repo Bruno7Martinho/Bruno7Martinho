@@ -18,7 +18,7 @@
 📌 Sempre explorando novas ideias! Aqui estão alguns dos meus projetos:
 
 ✅ Trabahlo dos Signos → Trabalho na matéria de lógica de programação realizado em java no NetBeans.  
-✅ Trabalho Game →  Trabalho na matéria de lógica de programação realizado em java no NetBeans.
+✅ Trabalho Game →  Trabalho na matéria de lógica de programação realizado em java no NetBeans.  
 ✅ Trabalho Perfumes → Trabalho na matéria de POO1 na escola Ulbra São Lucas, onde desenvolvi uma aplicação em java com métodos de repetição, arraylist, onde o usuário consegue adicionar, remover e inserir outras informações na lista.
 ✍️ Mais projetos em breve! 🚀
 ---
