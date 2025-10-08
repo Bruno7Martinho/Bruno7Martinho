@@ -9,6 +9,11 @@
 - **🛢️ Banco de Dados** → Modelagem e consultas SQL no MySQL
 - **🎨 Computação Gráfica** → Design criativo com Illustrator & Photoshop
 - **🌐 Desenvolvimento Web** → HTML, CSS e JavaScript para sites incríveis
+- **💻 Hardware** → Desmontagem e Montagem de PC´s 
+- **🪟 Sistemas Operacionais** → Desenvolvimento de atalhos, instalações de sistemas operacionais (Windows, Linux)
+- **🌐 Redes e Conectividade** → Parte prática de montagem de cabos RJ-45 (parte prática) e desenvolvimento de diagramas para redes
+- **📊 Análise de Sistemas** → Análise e desenvolvimento de Sistemas focada em HTML, JavaScript e CSS.
+
 ---
 ## 🚀 Tecnologias & Ferramentas
 🔹 Java ☕ | MySQL 🛢️ | HTML/CSS 🎨   
