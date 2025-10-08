@@ -25,8 +25,10 @@
 ✅ Trabalho dos Signos → Trabalho na matéria de lógica de programação realizado em java no NetBeans.  
 ✅ Trabalho Game →  Trabalho na matéria de lógica de programação realizado em java no NetBeans.  
 ✅ Trabalho Perfumes → Trabalho na matéria de POO1 na escola Ulbra São Lucas, onde desenvolvi uma aplicação em java com métodos de repetição, arraylist, onde o usuário consegue adicionar, remover e inserir outras informações na lista.  
-✅ Criação de Orçamentos → Projeto Web desenvolvido para a oficina de Chapeação Alexandre Reparos Automotivos, para facilitar a criação de orçamentos de serviços, onde no projeto já tem serviços e peças pré-definidos para facilitar a criação 
-✍️ Mais projetos em breve! 🚀
+✅ Criação de Orçamentos → Projeto Web desenvolvido para a oficina de Chapeação Alexandre Reparos Automotivos, para facilitar a criação de orçamentos de serviços, onde no projeto já tem serviços e peças pré-definidos para facilitar a criação.   
+✅ Mãos Solidárias → Projeto desenvolvido para a disciplina de **Website 1** como parte da matéria de **Análise de Sistemas**.
+
+
 ---
 
 
