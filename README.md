@@ -36,6 +36,6 @@
 ## 🌍 Onde me encontrar?
 📌 [GitHub](https://github.com/Bruno7Martinho) → Confira meus códigos!  
 📌 [LinkedIn](https://www.linkedin.com/in/bruno-martinho-90b8b32b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) → Vamos conectar?  
-📌 [Portfólio](#) → Meu espaço criativo digital  
+📌 [Portfólio](https://bruno7martinho.github.io/) → Meu espaço criativo digital  
 🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
 
