@@ -5,7 +5,7 @@
 ## 💡 Sobre mim
 🖥️ Apaixonado por tecnologia, design e inovação, estou construindo minha jornada no mundo da programação e da computação gráfica. Desde lógica de programação até criação de websites modernos, estou sempre aprendendo e buscando novas formas de transformar ideias em realidade! 🌍✨
 📌 Atualmente aprimorando minhas habilidades em:
-- **💻 Java** → Construção de algoritmos e lógica de programação
+- **💻 Java** → Construção de algoritmos, lógica de programação e programação orientada a objetos
 - **🛢️ Banco de Dados** → Modelagem e consultas SQL no MySQL
 - **🎨 Computação Gráfica** → Design criativo com Illustrator & Photoshop
 - **🌐 Desenvolvimento Web** → HTML, CSS e JavaScript para sites incríveis
@@ -36,6 +36,6 @@
 ## 🌍 Onde me encontrar?
 📌 [GitHub](https://github.com/Bruno7Martinho) → Confira meus códigos!  
 📌 [LinkedIn](https://www.linkedin.com/in/bruno-martinho-90b8b32b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) → Vamos conectar?  
-📌 [Portfólio](https://bruno7martinho.github.io/) → Meu espaço criativo digital  
+📌 [Portifólio](https://bruno7martinho.github.io/) → Meu espaço criativo digital  
 🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
 
