@@ -16,7 +16,7 @@
 
 ---
 ## 🚀 Tecnologias & Ferramentas
-🔹 Java ☕ | MySQL 🛢️ | HTML/CSS 🎨   
+🔹 Java ☕ |  JavaScrit   |  MySQL 🛢️ | HTML/CSS 🎨   
 🔹 Adobe Illustrator 🎭 | Adobe Photoshop 🖌️ | Git & GitHub 🐙
 ---
 ## 🎯 Projetos & Experimentos
